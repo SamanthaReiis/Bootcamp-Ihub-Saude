@@ -23,8 +23,3 @@ Prever o impacto que uma doença mental influencia na produtividade de um trabal
 * 10 - Redução das desigualdades
 
 Análise de saúde, com recorte de gênero
-
-Hipóteses:
-* 
-* 
-* 
