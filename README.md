@@ -5,7 +5,6 @@ Bootcamp Ciência de Dados - Análise de dados de saúde
 
 ## Dataset
 * Link: https://www.kaggle.com/osmi/mental-health-in-tech-survey
-* Link: https://www.kaggle.com/cdc/national-health-and-nutrition-examination-survey#examination.csv
 * Link: 
 
 ## ODS usadas
