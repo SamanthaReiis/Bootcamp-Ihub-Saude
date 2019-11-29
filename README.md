@@ -1,7 +1,19 @@
-# Bootcamp-IHUB
-Bootcamp Ciência de Dados - Análise de dados de saúde
+# Bootcamp Ciência de Dados - Instituto HUB
+
+## Projeto: Análise de saúde mental no ambiente de trabalho
+
+
+## Integrantes
+
+[Adriele Celina]()
+
+[Samantha Reis]()
+
+[Marcelo Leobons]()
+
 
 ## Descrição do projeto
+* Analisar o impacto de uma doença mental na produtividade de um trabalhador, com recorte de gênero
 
 ## Base de dados
 
@@ -20,6 +32,4 @@ Prever o impacto que uma doença mental influencia na produtividade de um trabal
 
 ## ODS usadas
 * 3 - Saúde e bem estar
-* 10 - Redução das desigualdades
-
-Análise de saúde, com recorte de gênero
+* 8 - Trabalho decente e crescimento econômico
